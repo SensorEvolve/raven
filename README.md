@@ -1,5 +1,6 @@
 # Raven
 
+![Code Snapshot](code-snapshot.png)
 A darker variant of [Rosé Pine](https://rosepinetheme.com/) for Visual Studio Code.
 
 Deep as midnight. Warm as embers.
