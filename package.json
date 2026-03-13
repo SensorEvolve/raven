@@ -2,7 +2,7 @@
   "name": "raven-rosepine-dark",
   "displayName": "Raven - Rosé Pine Dark",
   "description": "A darker variant of Rosé Pine — deep as night, refined as dusk.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "SensorEvolve",
   "engines": {
     "vscode": "^1.70.0"
