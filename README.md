@@ -64,11 +64,6 @@
 5. Open the Command Palette with `Ctrl+Shift+P`
 6. Type `Preferences: Color Theme` and select **Raven**
 
-**Via Command Line**
-
-```sh
-code --install-extension carlo-jacal.raven
-```
 
 ---
 
