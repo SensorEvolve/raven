@@ -1,0 +1,37 @@
+{
+  "name": "raven-theme",
+  "displayName": "Raven",
+  "description": "A darker variant of Rosé Pine — deep as night, refined as dusk.",
+  "version": "1.0.0",
+  "publisher": "SensorEvolve",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "rose pine",
+    "raven",
+    "dark",
+    "theme",
+    "color theme"
+  ],
+  "galleryBanner": {
+    "color": "#050301",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Raven",
+        "uiTheme": "vs-dark",
+        "path": "./themes/raven-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
