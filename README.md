@@ -32,3 +32,9 @@ Deep as midnight. Warm as embers.
 ## Credits
 
 Built on the [Rosé Pine](https://rosepinetheme.com/) color system.
+
+---
+
+If you enjoy this theme, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-carlo__jacal-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/carlo_jacal)
